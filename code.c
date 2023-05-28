@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-int main (void)
+int main ()
 {
-  puts ("Hello, World!");
+  printf ("Hello, World!");
+  printf ("new file")
   return 0;
 }
